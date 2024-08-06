@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'suryachilukuri@protonmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/surya_chilukur
@@ -66,23 +66,29 @@ education:
     date_start: 2021-10-01
     date_end: present
     summary: |
-      GPA: 2,3
+      GPA: 2,3 (German)
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    Courses included:
+      - Multiprocessors and Multicore Embedded systems
+      - Fiberoptics
+      - Optoelectronics
+      - Project Management
+      - Electronic Product Engineering
+
+
   - area: BTech Electrical and Electronics Engineering
     institution: VR Siddhartha College of Engineering
     date_start: 2016-08-01
     date_end: 2020-03-20
     summary: |
-      GPA: 2,7
+      GPA: 2,7 (German)
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Embedded Systems design with RTOS
+      - DC-DC converters 
+      - Digital signal processing
+      - Microcontrollers programming with C
+      - Fundamentals of  Electrical and Electronics
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -183,4 +189,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Surya Chilukuri is highly motivated Embedded and Microsystems Engineer with a strong foundation in embedded systems, hardware design, and software development.Now, I am seeking  challenging role to apply my technical expertise and contribute to
+innovative projects.
