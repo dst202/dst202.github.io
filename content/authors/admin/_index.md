@@ -64,7 +64,7 @@ education:
   - area: MEng Electrical and Microsystems
     institution: Ostbayerische Technische Hochschule (OTH) Regensburg
     date_start: 2021-10-01
-    date_end: present
+    date_end: 
     summary: |
       GPA: 2,3 (German)
 
