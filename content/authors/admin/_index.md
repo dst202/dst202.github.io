@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Master Thesis STudent
+role: Master Thesis Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -188,5 +188,4 @@ awards:
 ---
 
 ## About Me
-Surya Chilukuri is highly motivated Embedded and Microsystems Engineer with a strong foundation in embedded systems, hardware design, and software development.Now, I am seeking  challenging role to apply my technical expertise and contribute to
-innovative projects.
+Surya Chilukuri is highly motivated Embedded and Microsystems Engineer with a strong foundation in embedded systems, hardware design, and software development.Now, I am seeking  challenging role to apply my technical expertise and contribute to innovative projects.
