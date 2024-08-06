@@ -111,7 +111,7 @@ work:
     company_url: 'https://www.vitesco-technologies.com/en-us'
     company_logo: ''
     date_start: 2023-03-15
-    date_end: '2023-09-14'
+    date_end: 2023-09-14
     summary: |2-
       Responsibilities include:
       - Development and Simulation of intelligent capacitive DC-DC based control topologyusing Simulink and LtSpice
@@ -127,7 +127,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2018-03-01
-    date_end: 2018-09-31
+    date_end: 2018-10-01
     summary: |
       Training include:
       - Learned and Participated in Arduino and STM32 microcontroller programming and various sensors
