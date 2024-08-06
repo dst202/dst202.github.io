@@ -69,7 +69,7 @@ education:
     summary: |
       GPA: 2,3 (German)
 
-    Courses included:
+      Courses included:
       - Multiprocessors and Multicore Embedded systems
       - Fiberoptics
       - Optoelectronics
@@ -107,7 +107,7 @@ work:
       - Currently in the process of adding compatibilty for Automative NXP microcontroller
 
 
-  - position: intern Pre -Development
+  - position: Intern Pre -Development
     company_name: Vitesco technologies AG ,DE
     company_url: 'https://www.vitesco-technologies.com/en-us'
     company_logo: ''
@@ -140,7 +140,11 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C & C++
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Python 
         description: ''
         percent: 80
         icon: code-bracket
@@ -148,7 +152,11 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Bash
+        description: ''
+        percent: 40
+        icon: circle-stack
+      - name: Yaml
         description: ''
         percent: 40
         icon: circle-stack
@@ -161,14 +169,14 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: HomeLab
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: server
+      - name: Gaming
         description: ''
         percent: 80
-        icon: camera
+        icon: game
 
 languages:
   - name: English
