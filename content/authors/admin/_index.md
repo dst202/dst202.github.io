@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Surya Chilukuri
+title: Devi Surya Teja Chilukuri
 
 # Name pronunciation (optional)
 #name_pronunciation: Chien Shiung Wu
