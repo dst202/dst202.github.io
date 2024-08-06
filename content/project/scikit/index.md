@@ -1,13 +1,14 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: IOT Home Energy Monitor
+date: 2020-03-20
+external_link: https://github.com/dst202/IOT-Home-Energy-Monitor
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Arduino
+  - Embedded C
+  - Home-Energy
+  - Proteus
+  - IOT
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
-
+A Low - Cost home Energy Monitor designed to work with variable tarrif slab and IOT connectivity
 <!--more-->

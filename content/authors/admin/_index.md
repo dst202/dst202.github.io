@@ -48,7 +48,8 @@ profiles:
 
 interests:
   - Embedded Systems  
-  - Seflf hosting (Home Lab)
+  - Docker
+  - Self hosting (Home Lab)
   - Linux and Virtualization
 
 education:
