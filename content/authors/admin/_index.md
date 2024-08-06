@@ -89,29 +89,50 @@ education:
       - Digital signal processing
       - Microcontrollers programming with C
       - Fundamentals of  Electrical and Electronics
+
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Master Thesis Student
+    company_name: Dissecto GmbH ,DE
+    company_url: 'https://dissec.to/de/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-02-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Development of RP2040 microcontroller based JTAG and SWD debugger with OpenOCD compatibility
+      - Implementation of Automated security scan test using JTAG of developed debugger
+      - Integration of RP2040 debugging functionality into Dissecto’s HYDRA probe for remote automated tests
+      - Currently in the process of adding compatibilty for Automative NXP microcontroller
+
+
+  - position: intern Pre -Development
+    company_name: Vitesco technologies AG ,DE
+    company_url: 'https://www.vitesco-technologies.com/en-us'
+    company_logo: ''
+    date_start: 2023-03-15
+    date_end: '2023-09-14'
+    summary: |2-
+      Responsibilities include:
+      - Development and Simulation of intelligent capacitive DC-DC based control topologyusing Simulink and LtSpice
+        to reduce voltage drop ripple in automotive power supplies to less than 1 ms
+      - Scaling topology and hardware for development of prototype device
+      - Prototype design using KICAD for PCB and Cube IDE for STM32L053 to implement switching in topology
+      - Validation of prototype with transient load to measure and test the capacity of prototype
+
+
+
+  - position: Trainee
+    company_name: Silicon Touch Technologies ,IN
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2018-03-01
+    date_end: 2018-09-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Training include:
+      - Learned and Participated in Arduino and STM32 microcontroller programming and various sensors
+      - Worked on the development of a voice-activated alarm system using Raspberry Pi
+      - Utlising API’s and ESP dev board to send data to cloud from sensors
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -130,6 +151,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -150,15 +172,16 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: German
+    percent: 30
+  - name: Hindi
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
@@ -167,6 +190,7 @@ awards:
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
@@ -177,6 +201,7 @@ awards:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+
   - title: 'Object-Oriented Programming in R'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
