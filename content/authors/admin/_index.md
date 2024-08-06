@@ -188,6 +188,5 @@ awards:
 ---
 
 ## About Me
-
 Surya Chilukuri is highly motivated Embedded and Microsystems Engineer with a strong foundation in embedded systems, hardware design, and software development.Now, I am seeking  challenging role to apply my technical expertise and contribute to
 innovative projects.
